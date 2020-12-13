@@ -1,0 +1,9 @@
+**build/
+**.vscode/
+*.code-workspace
+**/Debug
+*.sln
+**.vs/
+*.txt
+*.db
+*.out
